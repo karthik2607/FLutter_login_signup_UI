@@ -76,7 +76,7 @@ class CreateNewAccount extends StatelessWidget {
                         inputType: TextInputType.number,
                         inputAction: TextInputAction.next
                     ),
-                    
+
                     TextInputField(icon: FontAwesomeIcons.envelope,
                         hint: 'Email',
                         inputType: TextInputType.emailAddress,
